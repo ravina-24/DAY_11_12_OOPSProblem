@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\bin\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.exe
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\bin\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.deps.json
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\bin\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.runtimeconfig.json
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\bin\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\bin\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.dll
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\bin\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.pdb
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\obj\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\obj\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\obj\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.AssemblyInfo.cs
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\obj\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\obj\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.csproj.CopyComplete
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\obj\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.dll
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\obj\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.pdb
+C:\Users\Hp\source\repos\DAY_11-12_OOPSUingJASON\DAY_11-12_OOPSUingJASON\obj\Debug\netcoreapp3.1\DAY_11-12_OOPSUingJASON.genruntimeconfig.cache

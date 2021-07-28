@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FCq9VxPmiXxjkjZPad2KCnzQerK+dH9anizhOA19a4zO8ZLPLUICm48UJLUsX5+vUnjBDWUQXwk7SVeBhG5+CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\DAY_11-12_OOPSUingJASON\\DAY_11-12_OOPSUingJASON\\DAY_11-12_OOPSUingJASON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
